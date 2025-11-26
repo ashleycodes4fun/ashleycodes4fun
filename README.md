@@ -11,7 +11,7 @@ Previous experience includes working as an Alternative Investments Summer Analys
 
 My goals for 2026 are to:
 - Continue progressing through the CS AI track and deepen my technical skills
-- Apply to software engineering fellowship programs (including those at JPMorgan and Jane Street)
+- Apply to software engineering fellowship programs
 - Develop impactful technical projects that support underserved communities
 
 Interests: artificial intelligence, fintech, algorithms, data analysis, and problem solving through technology  
